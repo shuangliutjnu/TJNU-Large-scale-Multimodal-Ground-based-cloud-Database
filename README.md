@@ -5,7 +5,7 @@ The TJNU Large-scale multimodal ground-based cloud database (LMGCD) is collected
 
 Hereunder, the table lists the corresponding multimodal cloud information of the above ground-based cloud images.
 
-![2-1](https://github.com/shuangliutjnu/TJNU-Large-scale-Multimodal-Ground-based-Cloud-Database-/blob/main/2-1.png)
+![2-1](https://github.com/shuangliutjnu/TJNU-Large-scale-Multimodal-Ground-based-Cloud-Database/blob/main/2-1.png)
 
 
 # Download
